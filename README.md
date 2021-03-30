@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muhammad Hamza Ali
+- 👋 Hi, I’m Muhammad Hamza Ali a Computer Science Undergraduate.
 - 👀 I’m interested in Full stack Web and Mobile Application Development (MERN, Flutter) and also exploring the field of Datascience and AI as well.
 - 🌱 I’m currently learning Datascience and MERN stack development as well as flutter 
 - 💞️ I’m looking to collaborate on open source projects as well beside being a good python developer try to solve problems with a person having mind of exploring evry Tech stack.
