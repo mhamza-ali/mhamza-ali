@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Muhammad Hamza Ali a Computer Science Undergraduate @https://www.uit.edu/ from Pakistan.
-- 👀 With Development skills in Python and Full stack Web and Mobile Application Development (MERN, Flutter) and being a Data and AI enthusiast also
-- doing specialization exploring the field of Datascience and AI as well.
+- 👀 With Development skills in Python and Full stack Web and Mobile Application Development (MERN, Flutter) and being a Data and AI enthusiast also doing specialization exploring the field of Datascience and AI as well.
 - 🌱 I’m currently learning Datascience and doing MERN stack development as well as flutter 
 - 💞️ I’m looking to collaborate on open source projects as well beside being a good python developer try to solve problems and automate your boring tasks.
 -  A person with the ability and mind game of exploring evry Tech stack.
