@@ -2,7 +2,7 @@
 - 👀 With Development skills in Python and Full stack Web and Mobile Application Development (MERN) and being a Data and AI enthusiast also doing specialization and exploring the field of Datascience and AI as well.
 - 🌱 I’m currently learning Datascience and doing MERN stack development.
 - 💞️ I’m looking to collaborate on open source projects as well beside being a good python programmer try to solve problems and automate your boring tasks.
--  A person with the ability and mind game of exploring every Tech stack.
+-  A person with the ability and mind game of exploring and learning every Tech stack.
 - 📫 You can contact me at hamza4841333@gmail.com for your projects and queries.
 
 <!---
